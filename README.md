@@ -1,3 +1,3 @@
 # PEViewer
 PE file (DOS, NT, Section) Header Viewer
-https://github.com/foiscs/PEViewer/issues/1#issue-1787199164
+![Animation1](https://github.com/foiscs/PEViewer/assets/38584993/8f29ec49-2fed-4dbc-9add-29719159002d)
